@@ -1,0 +1,114 @@
+body {
+    
+}
+h1 {
+    font-size: 20px;
+    font-family:  Tahoma;
+    margin-top: 40px;
+}
+.nav {
+    height: 50px;
+    width: 1150px;
+    margin: 0 auto;
+    display: flex;
+}
+.nav-part1 {
+    /* border: 1px solid black; */
+    height: 50px;
+    width: 650px;
+    display: flex;
+}
+.miclogo {
+    height: 50px;
+    width: 150x;
+}
+#micpic {
+    height: 38px;
+    width: 145px;
+    margin: 0 auto;
+}
+.office, .windows, .surface, .xbox, .deals, .support {
+    height: 20px;
+    width: 60px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+.windows {
+    margin-right: 5px;
+}
+a {
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+#search, #cart {
+    height: 20px;
+    width: 20px;
+}
+#contacts {
+    height: 20px;
+    width: 20px;
+}
+
+.nav-part2 {
+    height: 50px;
+    width: 350px;
+    display: flex;
+    justify-content: flex-end;
+}
+.allsup {
+    height: 20px;
+    width: 150px;
+    text-align: right;
+    margin-top: 10px
+}
+.icons {
+    height: 25px;
+    width: 130px;
+    margin-top: 10px;
+    text-align: right;
+    
+}
+.big-pic1 {
+    height: 425px;
+    width: 1150px;
+    margin: 0px auto;
+    background: url("https://picsum.photos/1150/425")
+}
+.product-content {
+    height: 400px;
+    width: 1150px;
+    margin: 40px auto;
+    display: flex;
+}
+.product1 {
+    height: 400px;
+    width: 130vh;
+    margin-right: 5px;
+}
+.product2 {
+    height: 400px;
+    width: 130vh;
+    margin: 0px 20px;
+}
+.product4 {
+    height: 400px;
+    width: 130vh;
+    margin-left: 15px;
+}
+.productpics {
+    height: 150px;
+    width: 270px;
+}
+.productlinks {
+    font-size: 18px;
+    color: #0067b8;
+    font-weight: bold;
+}
